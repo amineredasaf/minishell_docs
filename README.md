@@ -83,7 +83,6 @@ Tags: C Language, School
 
 - It analyses the syntactical structure and checks if the given input is in the correct syntax of the programming language or not.
 
----
 
 ### What is builtin?
 
