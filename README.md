@@ -93,4 +93,5 @@ Tags: C Language, School
 
 [//]: contributor-faces
 <a href="https://github.com/yabtaour"><img src="https://img.favpng.com/3/22/15/kitten-cat-avatar-png-favpng-M0UhgsTTvDyX0KRircRLnUhE0.jpg" title="yabtaour" width="80" height="80"></a>
+
 [//]: contributor-faces
