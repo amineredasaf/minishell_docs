@@ -90,8 +90,3 @@ Tags: C Language, School
 - there is no such thing as a perfect project, bash is a large project that was updated years after year for 43 years, for **newbies** like us who have never coded something like this, I'm very proud we did complete this project in 2 months, in the end, the only thing who gonna develop is your knowledge. `~rsaf`
 
 ---
-
-[//]: contributor-faces
-<a href="https://github.com/yabtaour"><img src="[https://img.favpng.com/3/22/15/kitten-cat-avatar-png-favpng-M0UhgsTTvDyX0KRircRLnUhE0.jpg](https://w7.pngwing.com/pngs/873/489/png-transparent-avatar-youtube-cat-cute-dog-heroes-cat-like-mammal-carnivoran.png)" title="yabtaour" width="80" height="80"></a>
-
-[//]: contributor-faces
