@@ -85,6 +85,12 @@ Tags: C Language, School
 
 ---
 
+### What is builtin?
+
+- built-in commands it's just built into the shell itself, while an external command is an external file launched by the shell, the external file may be a binary or some kind of shell script if you use a different version of the shell the builtin while always be available when external could not be installed or need a different supported version.
+
+---
+
 ### **How do you define a perfect project?**
 
 - there is no such thing as a perfect project, bash is a large project that was updated years after year for 43 years, for **newbies** like us who have never coded something like this, I'm very proud we did complete this project in 2 months, in the end, the only thing who gonna develop is your knowledge. `~rsaf`
