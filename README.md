@@ -92,6 +92,6 @@ Tags: C Language, School
 ---
 
 [//]: contributor-faces
-<a href="https://github.com/yabtaour"><img src="https://img.favpng.com/3/22/15/kitten-cat-avatar-png-favpng-M0UhgsTTvDyX0KRircRLnUhE0.jpg" title="yabtaour" width="80" height="80"></a>
+<a href="https://github.com/yabtaour"><img src="[https://img.favpng.com/3/22/15/kitten-cat-avatar-png-favpng-M0UhgsTTvDyX0KRircRLnUhE0.jpg](https://w7.pngwing.com/pngs/873/489/png-transparent-avatar-youtube-cat-cute-dog-heroes-cat-like-mammal-carnivoran.png)" title="yabtaour" width="80" height="80"></a>
 
 [//]: contributor-faces
