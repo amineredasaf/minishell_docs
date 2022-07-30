@@ -83,15 +83,20 @@ Tags: C Language, School
 
 - It analyses the syntactical structure and checks if the given input is in the correct syntax of the programming language or not.
 
+---
 
 ### What is builtin?
 
 - built-in commands it's just built into the shell itself, while an external command is an external file launched by the shell, the external file may be a binary or some kind of shell script if you use a different version of the shell the builtin while always be available when external could not be installed or need a different supported version.
+
+### What is Readline?
+
+- The function `deadline()`prints a prompt and then reads and returns a single line of text from the user. If the prompt is `NULL`or the empty string, no prompt is displayed. The line `deadline` returns are allocated with `malloc()`; the caller should `free()`the line when it has finished with it.
+    - Sources that can help you like us:
+        - [the read-line best man page](http://manpagez.com/info/rlman/rlman-6.2/rlman_23.php#Programming-with-GNU-Readline)
 
 ---
 
 ### **How do you define a perfect project?**
 
 - there is no such thing as a perfect project, bash is a large project that was updated years after year for 43 years, for **newbies** like us who have never coded something like this, I'm very proud we did complete this project in 2 months, in the end, the only thing who gonna develop is your knowledge. `~rsaf`
-
----
