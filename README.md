@@ -91,7 +91,7 @@ Tags: C Language, School
 
 ### What is Readline?
 
-- The function `deadline()`prints a prompt and then reads and returns a single line of text from the user. If the prompt is `NULL`or the empty string, no prompt is displayed. The line `deadline` returns are allocated with `malloc()`; the caller should `free()`the line when it has finished with it.
+- The function `deadline()`prints a prompt and then reads and returns a single line of text from the user. If the prompt is `NULL`or the empty string, no prompt is displayed. The line `readline` returns are allocated with `malloc()`; the caller should `free()`the line when it has finished with it.
     - Sources that can help you like us:
         - [the read-line best man page](http://manpagez.com/info/rlman/rlman-6.2/rlman_23.php#Programming-with-GNU-Readline)
 
